@@ -6,15 +6,15 @@
   </title>
   </head>
   <body>
-  <h1>the best type of saxphone</h1>
+  <h1>the best type of saxophone</h1>
  <header>
-  A bit about the saxphone 
+  a bit about the saxophone
   </header>
- 
+ <p>there are three typs og saxophons that are usually</p>
   <ol>
- <li></li>
- <li></li>
- <li></li>
+ <li>alto</li>
+ <li>tnenor</li>
+ <li>bari</li>
 
 </ol>
   
