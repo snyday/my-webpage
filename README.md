@@ -10,7 +10,8 @@
  <header>
   Here is a littel about the saxophone.
   </header>
- <p>there are three typs og saxophons that are usually</p>
+ <p>there are three typs of saxophons that are usually. There is a fourth 
+  saxophone but its not that common, its called the soprano sax.</p>
   <ol>
  <li>alto</li>
  <li>tnenor</li>
